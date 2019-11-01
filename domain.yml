@@ -1,0 +1,51 @@
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- bot_challenge
+- identify_next_opponent
+- identify_last_opponet
+- identify_current_record
+- get_last_game_outcome
+- identify_team
+entities:
+- entity_team
+- team
+slots:
+  last_opponent:
+    type: text
+  last_opponent_date:
+    type: text
+  last_opponent_score:
+    type: text
+  last_outcome:
+    type: bool
+  last_team_score:
+    type: text
+  losses:
+    type: text
+  next_opponent:
+    type: text
+  next_opponent_date:
+    type: text
+  team:
+    type: text
+  wins:
+    type: text
+templates:
+  utter_greet:
+  - text: Hey! My name is CFBBot. Which team would you like to know about?
+  utter_goodbye:
+  - text: Bye
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+actions:
+- utter_greet
+- utter_goodbye
+- utter_iamabot
+- action_return_record
+- action_return_last_opponent
+- action_return_last_game
+- action_return_next_opponent
+- action_return_team_greeting

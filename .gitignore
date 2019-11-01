@@ -1,0 +1,5 @@
+# Ignore certain file extensions.
+*.pyc
+*.tar.gz
+*__py_cache*
+*.db
