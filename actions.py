@@ -2,7 +2,7 @@
 Custom actions for handling response.
 '''
 
-from tools.tools import build_current_team_database
+from common.tools import build_current_team_database
 
 from typing import Any, Text, Dict, List, Optional
 

@@ -29,17 +29,17 @@
 
 ## intent:identify_team
 - I root for [Michigan](team)
-- I would like to know about [Michigan](team)
-- Tell me more about [Michigan](team)
-- My favorite team is [Michigan](team)
+- I would like to know about [Alabam](team)
+- Tell me more about [Texas A&M](team)
+- My favorite team is [LSU](team)
 - I root for [Ohio State](team)
-- I would like to know about [Ohio State](team)
+- I would like to know about [PSU](team)
 - Tell me more about [Ohio State](team)
-- My favorite team is [Ohio State](team)
-- I root for [Michigan State](team)
-- I would like to know about [Michigan State](team)
-- Tell me more about [Michigan State](team)
-- My favorite team is [Michigan State](team)
+- My favorite team is [University of Michigan](team)
+- I root for [University of Texas](team)
+- I would like to know about [University of Maryland](team)
+- Tell me more about [Michigan State University](team)
+- My favorite team is [Penn State University](team)
 
 
 ## intent:identify_current_record
@@ -72,23 +72,3 @@
 - where are we playing?
 - Who are we playing this weekend?
 - Who's next on the schedule?
-
-## synonym:Michigan
-- Wolverines
-- Umich
-- U of M
-- UM
-- University of Michigan
-
-## synonym:Ohio State
-- OSU
-- Ohio State University
-- Ohio
-- Buckeyes
-
-## synoym:Michigan State
-- MSU
-- Spartans
-- Michigan State University
-- State
-- Sparty
