@@ -13,39 +13,26 @@ entities:
 - entity_team
 - team
 slots:
-  last_opponent:
-    type: text
-  last_opponent_date:
-    type: text
-  last_opponent_score:
-    type: text
-  last_outcome:
-    type: bool
-  last_team_score:
-    type: text
-  losses:
-    type: text
-  next_opponent:
-    type: text
-  next_opponent_date:
-    type: text
   team:
     type: text
-  wins:
+  year:
     type: text
+  games:
+    type: unfeaturized
+  record:
+    type: unfeaturized
+  coach:
+    type: unfeaturized
 templates:
   utter_greet:
   - text: Hey! My name is CFBBot. Which team would you like to know about?
   utter_goodbye:
   - text: Bye
   utter_iamabot:
-  - text: I am a bot, powered by Rasa.
+  - text: I am a bot, powered by Rasa and collegefootballdata.com
 actions:
 - utter_greet
 - utter_goodbye
 - utter_iamabot
-- action_return_record
-- action_return_last_opponent
-- action_return_last_game
-- action_return_next_opponent
 - action_return_team_greeting
+- action_return_record
