@@ -3,8 +3,15 @@ Generic tooling functions to asist the actions.py classes.
 """
 
 from datetime import datetime
+from typing import List, Dict, Text, Any, Tuple
+
+from rasa_sdk.executor import CollectingDispatcher
 
 from common.api.base import CFBAPIBase
+from common.tools.responses import ChatBotResponseHandler
+
+
+text = ChatBotResponseHandler()
 
 
 def determine_current_season() -> str:
@@ -21,7 +28,7 @@ def determine_current_season() -> str:
     return today.year
 
 
-async def build_initial_database(team: str, year: str) -> dict:
+async def build_initial_database(team: str, year: str) -> Dict[Text, Any]:
     """
     Build an in memory database of the current team. Data is sourced from
     api.collegefootballdata.com, which provides free data for college football
@@ -41,12 +48,50 @@ async def build_initial_database(team: str, year: str) -> dict:
 
     return {
         "team": team,
+        "year": year,
         "games": response["/games"],
         "record": response["/records"],
         "coach": response["/coaches"],
         "recruiting": response["/recruiting/teams"],
         "stats": response["/stats/season"],
     }
+
+
+async def validate_input(
+    team: str,
+    year: str,
+    games: List[Dict[Text, Any]],
+    record: List[Dict[Text, Any]],
+    coach: Dict[Text, Any],
+    dispatcher: CollectingDispatcher,
+) -> Tuple:
+    """
+    Validate the input slots, and retrieve additional data.
+
+    :params team: String identifying the team we want to build a database on.
+    :params year: String identifying which season we want to check.
+    :params games: DB entry containing games data for one or more seasons.
+    :params record: DB entry containg the W/L record for a particular season.
+    :param coach: DB entry containing data about the coach for a particular season.
+    :returns outs: Tuple containing the year/season, and the DB.
+    """
+
+    if team is None:
+        dispatcher.utter_message(text.no_team_slot)
+
+    if year is None:
+        year = determine_current_season()
+
+    # Build the initial database if them team is not set.
+    DB = None
+    if not (games and record and coach):
+        DB = await build_initial_database(team, year)
+
+    # If the team slot differs from in memory DB, then overwrite DB.
+    if team != record[0]["team"]:
+        DB = await build_initial_database(team, year)
+
+    return DB
 
 
 def build_roulette_data(DB: dict) -> dict:

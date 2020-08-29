@@ -10,6 +10,7 @@ from common.tools.generic import (
     determine_current_season,
     build_initial_database,
     build_roulette_data,
+    validate_input,
 )
 from common.tools.responses import ChatBotResponseHandler
 
@@ -48,18 +49,22 @@ class ActionReturnTeamGreeting(Action):
         games = tracker.get_slot("games")
         record = tracker.get_slot("record")
         coach = tracker.get_slot("coach")
+        recruiting = tracker.get_slot("recruiting")
+        stats = tracker.get_slot("stats")
 
+        # Validate basic inputs.
         if team is None:
             dispatcher.utter_message(text.no_team_slot)
 
         if year is None:
             year = determine_current_season()
 
-        # Build the initial database if them team is not set.
-        if not (games and record and coach):
+        if not all([games, record, coach, recruiting, stats]):
             DB = await build_initial_database(team, year)
+            record = DB["record"]
 
-        # TODO: Implement logic for when the team slot differs from the in memory DB.
+        if team != record[0]["team"]:
+            DB = await build_initial_database(team, year)
 
         # Dispatch team acknowledgement text responses.
         resp = text.team_acknowledge_init.format(**{"team": team})
@@ -75,6 +80,8 @@ class ActionReturnTeamGreeting(Action):
             SlotSet("games", DB["games"]),
             SlotSet("record", DB["record"]),
             SlotSet("coach", DB["coach"]),
+            SlotSet("recruiting", DB["recruiting"]),
+            SlotSet("stats", DB["stats"]),
         ]
 
 
@@ -86,7 +93,7 @@ class ActionReturnRecord(Action):
     def name(self) -> Text:
         return "action_return_record"
 
-    def run(
+    async def run(
         self,
         dispatcher: CollectingDispatcher,
         tracker: Tracker,
@@ -96,8 +103,33 @@ class ActionReturnRecord(Action):
         Determine which score to use and return the game data.
         """
 
+        # Pull the relevant team and season year.
         team = tracker.get_slot("team")
+        year = tracker.get_slot("year")
         record = tracker.get_slot("record")
-        dispatcher.utter_message(f"{team} is {wins}-{losses}")
 
-        return []
+        # Validate basic inputs.
+        if team is None:
+            dispatcher.utter_message(text.no_team_slot)
+
+        if year is None:
+            year = determine_current_season()
+
+        # If the record is not present, refresh the database
+        _slots_to_be_set = []
+        if not all([record]):
+            DB = await build_initial_database(team, year)
+            record = DB["record"]
+            _slots_to_be_set = [
+                SlotSet("games", DB["games"]),
+                SlotSet("record", record),
+                SlotSet("coach", DB["coach"]),
+                SlotSet("recruiting", DB["recruiting"]),
+                SlotSet("stats", DB["stats"]),
+            ]
+
+        wins = record[0]["total"]["wins"]
+        losses = record[0]["total"]["losses"]
+        dispatcher.utter_message(f"{team} was {wins}-{losses} during {year}")
+
+        return _slots_to_be_set

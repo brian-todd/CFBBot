@@ -11,8 +11,10 @@ class ChatBotResponseHandler:
     """
 
     def __init__(self):
-        self.general_prompty = "What else can I tell you?"
+        self.general_prompt = "What else can I tell you?"
         self.no_team_slot = "I'm sorry, I couldn't figure out which team you're interested in. Would you rephrase that?"
+
+        # action_return_team_greeting
         self.team_acknowledge_init = "I can tell you all about {team}!"
         self.team_acknowledge_roulette = [
             "For example, it looks like {team} is {wins}-{losses} this year.",
@@ -22,3 +24,5 @@ class ChatBotResponseHandler:
             "For example, {team} is coached by {coach}.",
             "For example, {team}'s recruiting class was ranked #{recruiting_rank} in {years}.",
         ]
+
+        # action_return_record

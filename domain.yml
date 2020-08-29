@@ -4,10 +4,7 @@ intents:
 - affirm
 - deny
 - bot_challenge
-- identify_next_opponent
-- identify_last_opponet
 - identify_current_record
-- get_last_game_outcome
 - identify_team
 entities:
 - entity_team
@@ -22,6 +19,10 @@ slots:
   record:
     type: unfeaturized
   coach:
+    type: unfeaturized
+  recruiting:
+    type: unfeaturized
+  stats:
     type: unfeaturized
 templates:
   utter_greet:

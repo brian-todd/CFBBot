@@ -44,3 +44,15 @@
 - I would like to know about [University of Maryland](team)
 - Tell me more about [Michigan State University](team)
 - My favorite team is [Penn State University](team)
+
+##intent:identify_current_record
+- What is their current record?
+- How are we doing this year?
+- What's their overall record?
+- How is [Michigan](team) doing this year?
+- What is [LSU] record this year?
+- record
+- How many wins do we have this season?
+- How many losses do we have this season?
+- How many wins does [University of Texas] have this season?
+- How many losses does [University of Iowa] have this season?
