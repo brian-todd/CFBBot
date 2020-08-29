@@ -1,5 +1,5 @@
 # CFBBot
-Simple chatbot that keeps you up to date on the recent results of a particular college football team. 
+Chatbot for CFB implemented with RASA/SpaCy with data from [collegefootballdata.com](collegefootballdata.com)
 
 # Setup
 
@@ -19,4 +19,4 @@ In order to go about using the software, we have to start an `actions` server:
 
 `rasa run actions`
 
-And we can then either start a shell with `rasa shell --cors '*'` or a chat environment with `rasa x`.
+And we can then either start a shell with `rasa shell` or a chat environment with `rasa x`.

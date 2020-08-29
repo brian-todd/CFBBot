@@ -3,3 +3,4 @@
 *.tar.gz
 *__py_cache*
 *.db
+*test.py*

@@ -1,0 +1,3304 @@
+Abilene Christian
+ACU
+Abil Christian
+Adams State
+ADST
+Adams St
+Adrian
+ADR
+Adrian
+Air Force
+AFA
+Air Force
+Akron
+AKR
+Akron
+Alabama
+ALA
+Alabama
+Alabama A&M
+AAMU
+Alabama A&M
+Alabama State
+ALST
+Alabama State
+Albany
+ALBY
+Albany
+Albany State (GA)
+ALB
+Albany St (GA)
+Albion
+ALBI
+Albion
+Albright
+ALB
+Albright
+Alcorn State
+ALCN
+Alcorn State
+Alderson-Broaddus
+ABC
+Ald.-Broaddus
+Alfred
+ALF
+Alfred
+Alfred State College
+ASC
+Alfred St 
+Allegheny
+ALL
+Allegheny
+Alma College
+ALM
+Alma College
+American International
+AIC
+American Intl.
+Amherst College
+Amherst
+AMH
+Amherst 
+Anderson (IN)
+AND
+Anderson (IN)
+Angelo State
+ANG
+Angelo St
+Anna Maria College
+ANN
+Anna Maria 
+Appalachian State
+APP
+Appalachian St
+Apprentice School
+APP
+Apprentice School
+Arizona
+ARIZ
+Arizona
+Arizona Christian
+AZCR
+Arizona Christian
+Arizona State
+ASU
+Arizona State
+Arkansas
+ARK
+Arkansas
+Arkansas-Monticello
+ARK
+AR-Monticello
+Arkansas-Pine Bluff
+UAPB
+AR-Pine Bluff
+Arkansas State
+ARST
+Arkansas State
+Arkansas Tech
+ARK
+Arkansas Tech
+Army
+ARMY
+Army
+Ashland
+ASH
+Ashland
+Assumption
+ASP
+Assumption
+Auburn
+AUB
+Auburn
+Augsburg
+AUG
+Augsburg
+Augustana (IL)
+AUG
+Augustana (IL)
+Augustana (SD)
+AUG
+Augustana (SD)
+Aurora
+AUR
+Aurora
+Austin College
+AUS
+Austin College
+Austin Peay
+PEAY
+Austin Peay
+Ave Maria
+AMU
+Ave Maria
+Averett
+AVE
+Averett
+Avila College
+AVC
+Avila College
+Azusa Pacific
+AZU
+Azusa Pacific
+Bacone College
+BKN
+Bacone College
+Baker University
+BAK
+Baker U
+Baldwin-Wallace
+BAL
+Baldwin-Wallace
+Ball State
+BALL
+Ball State
+Bates College
+Bates
+BAT
+Bates College
+Baylor
+BAY
+Baylor
+Becker College
+BEC
+Becker College
+Beloit College
+Beloit
+BEL
+Beloit College
+Bemidji State
+BEM
+Bemidji State
+Benedict College
+BBG
+Benedict
+Benedictine College
+BEN
+Benedictine
+Benedictine (IL)
+BEN
+Benedictine (IL)
+Bentley
+BENT
+Bentley
+Berry College
+BER
+Berry
+Bethany (KS)
+BET
+Bethany (KS)
+Bethany (WV)
+BET
+Bethany (WV)
+Bethel (MN)
+BET
+Bethel (MN)
+Bethel (TN)
+BET
+Bethel (TN)
+Bethune-Cookman
+BCU
+Bethune-Cookman
+Birmingham-Southern
+BIR
+Birmingham-Southern
+Blackburn
+BLA
+Blackburn
+Black Hills State
+BLA
+Black Hills St
+Bloomsburg
+BLO
+Bloomsburg
+Bluefield College
+BLU
+Bluefield 
+Bluffton
+BLU
+Bluffton
+Boise State
+BSU
+Boise State
+Boston College
+BC
+Boston College
+Bowdoin
+BOW
+Bowdoin
+Bowling Green
+Bowling Green State
+BGSU
+Bowling Green
+Brevard College
+BRE
+Brevard 
+Bridgewater State
+BGW
+Bridgewater St
+Bridgewater (VA)
+BRD
+Bridgewater (VA)
+Brit Columbia
+BBM
+Brit Columbia
+Brockport State (NY)
+BRO
+Brockport St (NY)
+Brown
+BRWN
+Brown
+Bryant
+BRY
+Bryant
+Bucknell
+BUCK
+Bucknell
+Buena Vista
+BUE
+Buena Vista
+Buffalo
+BUFF
+Buffalo
+Buffalo State
+BUF
+Buffalo St
+Butler
+BUT
+Butler
+BYU
+Brigham Young
+BYU
+BYU
+California
+CAL
+Cal
+California (PA)
+CAL
+California (PA)
+Cal Lutheran
+California Lutheran
+CAL
+Cal Lutheran
+Cal Poly
+CP
+Cal Poly
+Campbell
+CAMP
+Campbell
+Capital
+CAP
+Capital
+Carleton
+CAR
+Carleton
+Carnegie Mellon
+CAR
+Carnegie Mellon
+Carroll (WI)
+CAR
+Carroll (WI)
+Carson-Newman
+CNEW
+Carson-Newman
+Carthage
+CAR
+Carthage
+Case Western Reserve
+CSR
+Case West Reserve
+Castleton State College
+CAS
+Castleton St 
+Catawba
+CAT
+Catawba
+Catholic University
+CATH
+Catholic Univ.
+Central
+CEN
+Central
+Central Arkansas
+UCA
+Cent Arkansas
+Central Connecticut
+Central Connecticut State
+CCSU
+Cent Conn St
+Central Methodist
+CDF
+Cent Methodist
+Central Michigan
+CMU
+Cent Michigan
+Central Missouri State
+CEN
+Cent Missouri St
+Central Oklahoma
+CEN
+Cent Oklahoma
+Central State
+CCI
+Central St
+Central Washington
+CEN
+Cent Washington
+Centre
+CEN
+Centre
+Chadron State
+CHA
+Chadron St
+Chapman
+CHA
+Chapman
+Charleston Southern
+CHSO
+Charleston So
+Charleston (WV)
+CHA
+Charleston (WV)
+Charlotte
+CHAR
+Charlotte
+Chattanooga
+CHAT
+Chattanooga
+Cheyney
+CHE
+Cheyney
+Chicago
+CHI
+Chicago
+Christopher Newport
+CHR
+Christopher Newport
+Cincinnati
+CIN
+Cincinnati
+Claremont
+CLA
+Claremont
+Clarion
+CLA
+Clarion
+Clark Atlanta
+CLK
+Clark Atlanta
+Clemson
+CLEM
+Clemson
+Coastal Carolina
+CCU
+C. Carolina
+Coast Guard
+COA
+Coast Guard
+Coe
+COE
+Coe College
+Colby
+COL
+Colby
+Colgate
+COLG
+Colgate
+College of Faith
+FAI
+Faith-Arkansas
+College of Faith - Charlotte
+COFC
+Faith-Charlotte
+College of Idaho
+COI
+College of Idaho
+College of New Jersey
+CNJ
+College of NJ
+Colorado
+COLO
+Colorado
+Colorado College
+COL
+Colorado College
+Colorado Mesa
+MESA
+Colorado Mesa
+Colorado Mines
+COL
+Colorado Mines
+Colorado State
+CSU
+Colorado State
+Colorado State-Pueblo
+CSUP
+Colorado St-Pueblo
+Columbia
+CLMB
+Columbia
+Concord
+CON
+Concord
+Concordia (AL)
+CON
+Concordia Col.
+Concordia College (MI)
+CMI
+Concordia  (MI)
+Concordia (IL)
+CON
+Concordia (IL)
+Concordia (MN)
+CON
+Concordia (MN)
+Concordia-St. Paul
+CON
+Concordia-St. Paul
+Concordia (WI)
+CON
+Concordia (WI)
+Connecticut
+CONN
+UConn
+Cornell
+COR
+Cornell
+Cornell College (IA)
+Cornell College
+COR
+Cornell  (IA)
+Crown College
+CRO
+Crown College
+Culver-Stockton
+CUL
+Culver-Stockton Coll
+Cumberland
+CUM
+Cumb (TN)
+Cumberland College
+CUM
+Cumberland 
+Curry
+CUR
+Curry
+Dakota State
+DSU
+Dakota St
+Dakota Wesleyan
+DWU
+Dakota Wesleyan
+Dartmouth
+DART
+Dartmouth
+Davidson
+DAV
+Davidson
+Dayton
+DAY
+Dayton
+Defiance
+DEF
+Defiance
+Delaware
+DEL
+Delaware
+Delaware State
+DSU
+Delaware State
+Delaware Valley
+DV
+Delaware Valley
+Delta State
+DEL
+Delta St
+Denison
+DEN
+Denison
+DePauw
+DEP
+DePauw
+Dickinson
+DIC
+Dickinson
+Dickinson State
+DIC
+Dickinson St
+Drake
+DRKE
+Drake
+Dubuque
+DUB
+Dubuque
+Duke
+DUKE
+Duke
+Duquesne
+DUQ
+Duquesne
+Earlham
+EAR
+Earlham
+East Carolina
+ECU
+ECU
+East Central
+EAS
+East Central
+Eastern Illinois
+EIU
+E Illinois
+Eastern Kentucky
+EKY
+E Kentucky
+Eastern Michigan
+EMU
+E Michigan
+Eastern New Mexico
+EAS
+E New Mexico
+Eastern Oregon
+EAS
+E Oregon
+Eastern Washington
+EWU
+E Washington
+East Stroudsburg
+EAS
+E Stroudsburg
+East Tennessee State
+ETSU
+ETSU
+East Texas Baptist
+EAS
+E Texas Baptist
+Edinboro
+EDI
+Edinboro
+Elizabeth City State
+ELI
+Elizabeth City St
+Elmhurst
+ELM
+Elmhurst
+Elon
+ELON
+Elon
+Emory & Henry
+EMO
+Emory & Henry
+Emporia State
+EMP
+Emporia St
+Endicott College
+END
+Endicott 
+Erie Community College
+ECC
+Erie Community
+Eureka College
+EUR
+Eureka College
+Evangel
+EVA
+Evangel
+Fairmont State
+FAI
+Fairmont St
+Faulkner
+FAU
+Faulkner
+Fayetteville State
+FAY
+Fayetteville St
+FDU-Florham
+FDU
+FDU-Florham
+Ferris State
+FER
+Ferris St
+Ferrum
+FER
+Ferrum
+Findlay
+FIN
+Findlay
+Fitchburg State
+FIT
+Fitchburg St
+Florida
+FLA
+Florida
+Florida A&M
+FAMU
+Florida A&M
+Florida Atlantic
+FAU
+FAU
+Florida International
+FIU
+FIU
+Florida State
+FSU
+FSU
+Florida Tech
+FLTH
+Florida Tech
+Fordham
+FOR
+Fordham
+Fort Hays State
+FHSU
+Fort Hays St
+Fort Lewis
+FOR
+Fort Lewis
+Fort Valley State
+FOR
+Fort Valley St
+Framingham State
+FRA
+Framingham St
+Franklin
+FRA
+Franklin
+Franklin & Marshall
+F&M
+Franklin & Marshall
+Fresno State
+FRES
+Fresno State
+Frostburg State
+FRO
+Frostburg St
+Furman
+FUR
+Furman
+Gallaudet
+GAL
+Gallaudet
+Gannon
+GAN
+Gannon
+Gardner-Webb
+WEBB
+Gardner-Webb
+Geneva College
+GEN
+Geneva College
+George Fox University
+GFU
+George Fox
+George Mason
+GMU
+George Mason
+Georgetown
+GTWN
+Georgetown
+Georgia
+UGA
+Georgia
+Georgia Southern
+GASO
+Ga Southern
+Georgia State
+GAST
+Georgia State
+Georgia Tech
+GT
+Georgia Tech
+Gettysburg
+GET
+Gettysburg
+Glenville State
+GLE
+Glenville St
+Graceland University
+GRC
+Graceland University
+Grambling
+Grambling State
+GRAM
+Grambling
+Grand Valley State
+GVSU
+Grand Valley St
+Greensboro
+GRN
+Greensboro
+Greenville
+GRE
+Greenville
+Grinnell
+GRI
+Grinnell
+Grove City College
+GRO
+Grove City 
+Guilford
+GUI
+Guilford
+Gustavus Adolphus
+GUS
+Gustavus Adolphus
+Hamilton
+HAM
+Hamilton
+Hamline
+HAM
+Hamline
+Hampden-Sydney
+HAM
+Hampden-Sydney
+Hampton
+HAMP
+Hampton
+Hanover
+HAN
+Hanover
+Harding
+HAR
+Harding
+Hardin-Simmons
+HAR
+Hardin-Simmons
+Hartwick
+HAR
+Hartwick
+Harvard
+HARV
+Harvard
+Haskell Indian Nations
+Haskell Indian Nations
+HAS
+Haskell Indian Natio
+Hawai'i
+HAW
+Hawai'i
+Heidelberg
+HEI
+Heidelberg
+Henderson State
+HEN
+Henderson St
+Hendrix College
+HEND
+Hendrix
+Hillsdale
+HIL
+Hillsdale
+Hiram
+HIR
+Hiram
+Hobart
+HOB
+Hobart
+Holland College
+HC
+Holland College
+Holy Cross
+HC
+Holy Cross
+Hope
+HOP
+Hope
+Houston
+HOU
+Houston
+Houston Baptist
+HBU
+Houston Baptist
+Howard
+HOW
+Howard
+Howard Payne
+HOW
+Howard Payne
+Humboldt State
+HUM
+Humboldt St
+Huntingdon
+HUN
+Huntingdon
+Husson
+HUS
+Husson
+Idaho
+IDHO
+Idaho
+Idaho State
+IDST
+Idaho State
+Illinois
+ILL
+Illinois
+Illinois College
+ILLC
+Illinois College
+Illinois State
+ILST
+Illinois State
+Illinois Wesleyan
+ILL
+Illinois Wesleyan
+Incarnate Word
+IW
+Incarnate Word
+Indiana
+IND
+Indiana
+Indiana (PA)
+IND
+Indiana (PA)
+Indianapolis
+IND
+Indianapolis
+Indiana State
+INST
+Indiana State
+Iowa
+IOWA
+Iowa
+Iowa State
+ISU
+Iowa State
+Iowa Wesleyan
+IOW
+Iowa Wesleyan
+Ithaca
+ITH
+Ithaca
+Jackson State
+JKST
+Jackson State
+Jacksonville
+JAC
+Jacksonville
+Jacksonville State
+JVST
+Jacksonville St
+James Madison
+JMU
+JMU
+Jamestown
+JAM
+Jamestown
+John Carroll
+JOH
+John Carroll
+Johns Hopkins
+JOH
+Johns Hopkins
+Johnson C Smith
+JOH
+Johnson C Smith
+Juniata
+JUN
+Juniata
+Kalamazoo
+KAL
+Kalamazoo
+Kansas
+KU
+Kansas
+Kansas State
+KSU
+Kansas State
+Kansas Wesleyan University
+KNW
+Kansas Wesleyan U
+Kennesaw State
+KENN
+Kennesaw St
+Kent State
+KENT
+Kent State
+Kentucky
+UK
+Kentucky
+Kentucky State
+KYS
+Kentucky St
+Kentucky Wesleyan
+KYW
+Kentucky Wesleyan
+Kenyon
+KEN
+Kenyon
+King's College (PA)
+KIN
+King's  (PA)
+Kutztown
+KUT
+Kutztown
+Lafayette
+LAF
+Lafayette
+LaGrange College
+LAG
+LaGrange 
+Lake Erie College
+LKE
+Lake Erie 
+Lake Forest
+LAK
+Lake Forest
+Lamar
+LAM
+Lamar
+Lambuth
+LAM
+Lambuth
+Langston
+LAN
+Langston
+La Verne
+LAV
+La Verne
+Lawrence
+LAW
+Lawrence
+Lebanon Valley
+LEB
+Lebanon Valley
+Lehigh
+LEH
+Lehigh
+Lenoir-Rhyne
+LEN
+Lenoir-Rhyne
+Lewis & Clark
+LEW
+Lewis & Clark
+Liberty
+LIB
+Liberty
+Limestone
+LIM
+Limestone
+Lincoln (MO)
+LIN
+Lincoln (MO)
+Lincoln (PA)
+LIN
+Lincoln (PA)
+Lindenwood
+LIN
+Lindenwood
+Lindenwood Belleville
+LIND
+Lindenwood Bell
+Lindsey Wilson
+LIN
+Lindsey Wilson
+Linfield
+LIN
+Linfield
+LIU Post
+LIU
+LIU Post
+Livingstone
+LVI
+Livingstone
+Lock Haven
+LOC
+Lock Haven
+Louisiana
+UL Lafayette
+ULL
+Louisiana
+Louisiana College
+LAC
+Louisiana 
+Louisiana Monroe
+La.-Monroe
+ULM
+UL Monroe
+Louisiana Tech
+LT
+LA Tech
+Louisville
+LOU
+Louisville
+LSU
+Louisiana State
+LSU
+LSU
+Luther
+LUT
+Luther
+Lycoming
+LYC
+Lycoming
+Macalester
+MAC
+Macalester
+MacMurray College
+MAC
+MacMurray 
+Maine
+MAINE
+Maine
+Maine Maritime
+MAI
+Maine Maritime
+Malone
+MAL
+Malone
+Manchester
+MAN
+Manchester
+Manitoba
+MAN
+Manitoba
+Mansfield
+MAN
+Mansfield
+Maranatha Baptist College
+MAR
+Maranatha Baptist 
+Marian
+MAR
+Marian
+Marietta
+MAR
+Marietta
+Marist
+MRST
+Marist
+Marshall
+MRSH
+Marshall
+Mars Hill
+MAR
+Mars Hill
+Martin Luther College
+MAR
+Martin Luther 
+Mary Hardin-Baylor
+MAR
+Mary Hardin-Baylor
+Maryland
+MD
+Maryland
+Maryville TN
+Maryville (TN)
+MAR
+Maryville TN
+Mass Maritime
+MAS
+Mass Maritime
+Mayville State
+MAY
+Mayville St
+McDaniel College
+MCD
+McDaniel 
+McMurry
+MCM
+McMurry
+McNeese
+MCNS
+McNeese
+Memphis
+MEM
+Memphis
+Menlo
+MEN
+Menlo
+Mercer
+MER
+Mercer
+Merchant Marine
+MER
+Merchant Marine
+Mercyhurst
+MER
+Mercyhurst
+Merrimack
+MER
+Merrimack
+Methodist
+MTH
+Methodist
+Miami
+Miami (FL)
+MIAMI
+Miami
+Miami (OH)
+M-OH
+Miami (OH)
+Michigan
+MICH
+Michigan
+Michigan State
+MSU
+Michigan State
+Michigan Tech
+MIC
+Michigan Tech
+Middlebury
+MID
+Middlebury
+Middle Tennessee
+Middle Tennessee State
+MTSU
+Mid Tennessee
+Midland University
+MID
+Midland U
+Midwestern State
+MID
+Midwest
+Miles
+MIL
+Miles
+Millersville
+MIL
+Millersville
+Millikin
+MIL
+Millikin
+Millsaps
+MIL
+Millsaps
+Minnesota
+MINN
+Minnesota
+Minnesota-Crookston
+MIN
+Minnesota-Crookston
+Minnesota-Duluth
+MNDU
+Minnesota-Duluth
+Minnesota-Morris
+MIN
+Minnesota-Morris
+Minnesota State
+MNST
+Minnesota St
+Minnesota St-Moorhead
+MOO
+Minn St-Moorhead
+Minot State
+MIN
+Minot St
+Misericordia
+MISC
+Misericordia
+Mississippi College
+MIS
+Miss. College
+Mississippi State
+MSST
+Miss St
+Mississippi Valley State
+MVSU
+Miss Valley St
+Missouri
+MIZ
+Missouri
+Missouri Baptist
+MB
+MO Baptist
+Missouri Southern State
+MOS
+Missouri South St
+Missouri S&T
+S&T
+Missouri S&T
+Missouri State
+MOST
+Missouri State
+Missouri Western
+MOW
+Missouri West
+Monmouth
+MONM
+Monmouth
+Monmouth (IL)
+MON
+Monmouth (IL)
+Montana
+MONT
+Montana
+Montana State
+MTST
+Montana State
+Montana-Western
+MWST
+Montana-Western
+Montclair State
+MON
+Montclair St
+Monterrey Tech
+MON
+Monterrey Tech
+Moravian
+MOR
+Moravian
+Morehead State
+MORE
+Morehead State
+Morehouse
+MOR
+Morehouse
+Morgan State
+MORG
+Morgan State
+Morningside
+MAO
+Morningside
+Morrisville State
+MOR
+Morrisville St
+Mount Ida College
+MOU
+Mount Ida 
+Mount St. Joseph
+MTS
+Mount St. Joseph
+Mount Union
+MTU
+Mount Union
+Muhlenberg
+MUH
+Muhlenberg
+Murray State
+MURR
+Murray State
+Muskingum
+MUS
+Muskingum
+Navy
+NAVY
+Navy
+NC State
+North Carolina St.
+NCST
+NC State
+NC Wesleyan
+UNCW
+UNC Welseyan
+Nebraska
+NEB
+Nebraska
+Nebraska-Kearney
+NEB
+Nebraska-Kearney
+Nebraska-Omaha
+UNO
+Omaha
+Nevada
+NEV
+Nevada
+Newberry
+NBY
+Newberry
+New Hampshire
+UNH
+UNH
+New Haven
+NH
+New Haven
+New Mexico
+UNM
+New Mexico
+New Mexico Highlands
+NMH
+New Mexico Highlands
+New Mexico State
+NMSU
+New Mexico St
+Nicholls
+NICH
+Nicholls
+Nichols
+NIC
+Nichols
+Norfolk State
+NSU
+Norfolk State
+North Alabama
+NOR
+North Alabama
+North Carolina
+UNC
+UNC
+North Carolina A&T
+NCAT
+NC A&T
+North Carolina Central
+NCCU
+NC Central
+North Central
+NOC
+North Central
+North Dakota
+UND
+North Dakota
+North Dakota State
+NDSU
+North Dakota St
+Northeastern State
+NEO
+NE St
+Northern Arizona
+NAU
+N Arizona
+Northern Colorado
+UNCO
+N Colorado
+Northern Illinois
+NIU
+N Illinois
+Northern Iowa
+UNI
+Northern Iowa
+Northern Michigan
+NOR
+N Michigan
+Northern State
+NOR
+Northern St
+North Greenville
+NGR
+N Greenville
+North Park
+NOR
+North Park
+North Texas
+UNT
+North Texas
+Northwestern
+NW
+Northwestern
+Northwestern (MN)
+NWM
+NW (MN)
+Northwestern Oklahoma State
+NWO
+NW Oklahoma St
+Northwestern State
+NWST
+Northwestern St
+Northwest Missouri State
+NWMS
+NW Missouri St
+Northwood (MI)
+NAR
+Northwood
+Norwich
+NOR
+Norwich
+Notre Dame
+ND
+Notre Dame
+Notre Dame College
+NOT
+Notre Dame College
+Oberlin
+OBE
+Oberlin
+Occidental
+OCC
+Occidental
+Ohio
+OHIO
+Ohio
+Ohio Dominican
+Panthers
+Ohio Midwestern College
+OMW
+Ohio Midwestern
+Ohio Northern
+ON
+Ohio Northern
+Ohio State
+OSU
+OSU
+Ohio State Newark
+OSU
+Ohio St Newark
+Ohio Wesleyan
+OHI
+Ohio Wesleyan
+Oklahoma
+OKLA
+Oklahoma
+Oklahoma Baptist
+OB
+Oklahoma Bapt
+Oklahoma State
+OKST
+Oklahoma State
+OK Panhandle St
+OKP
+OK Panhandle St
+Old Dominion
+ODU
+Old Dominion
+Ole Miss
+MISS
+Ole Miss
+Olivet College
+OLI
+Olivet College
+Oregon
+ORE
+Oregon
+Oregon State
+ORST
+Oregon State
+Otterbein
+OTT
+Otterbein
+Ouachita Baptist
+OUA
+Ouachita Baptist
+Pace
+PAC
+Pace
+Pacific Lutheran
+PAC
+Pacific Lutheran
+Pacific (OR)
+PAC
+Pacific (OR)
+Penn State
+PSU
+Penn State
+Pennsylvania
+PENN
+Penn
+Pikeville
+PIK
+Pikeville
+Pittsburgh
+Pitt
+PITT
+Pitt
+Pittsburg State
+PIT
+Pittsburg St
+Plymouth State
+PLY
+Plymouth St
+Point University
+POINT
+Point University
+Pomona-Pitzer
+POM
+Pomona-Pitzer
+Portland State
+PRST
+Portland State
+Prairie View
+PVAM
+PV A&M
+Presbyterian College
+PRE
+Presbyterian
+Presentation College
+PRE
+Presentation 
+Princeton
+PRIN
+Princeton
+Principia College
+PRI
+Principia 
+Puget Sound
+PUG
+Puget Sound
+Purdue
+PUR
+Purdue
+Quincy
+QUI
+Quincy
+Randolph-Macon
+RAN
+Randolph-Macon
+Redlands
+RED
+Redlands
+Reinhardt
+REIN
+Reinhardt
+Rensselaer
+REN
+Rensselaer
+Rhode Island
+URI
+URI
+Rhodes
+RHO
+Rhodes
+Rice
+RICE
+Rice
+Richmond
+RICH
+Richmond
+Ripon
+RIPON
+Ripon
+Robert Morris
+RMU
+Robert Morris
+Robert Morris (IL)
+RMU
+Robert Morris (IL)
+Rochester
+ROC
+Rochester
+Rockford
+ROC
+Rockford
+Rose-Hulman
+ROS
+Rose-Hulman
+Rowan
+ROWAN
+Rowan
+Rutgers
+RUTG
+Rutgers
+Sacramento State
+SAC
+Sacramento St
+Sacred Heart
+SHU
+Sacred Heart
+Saginaw Valley
+SAG
+Saginaw Valley
+Salisbury
+SAL
+Salisbury
+Salve Regina
+SAL
+Salve Regina
+Samford
+SAM
+Samford
+Sam Houston State
+SHSU
+Sam Houston
+San Diego
+USD
+San Diego
+San Diego State
+SDSU
+San Diego State
+San José State
+San Jose St.
+SJSU
+San Jose State
+Savannah State
+SAV
+Savannah State
+Seton Hill College
+SET
+Seton Hill 
+Sewanee Univ. of the South
+Sewanee
+SEW
+Sewanee University
+Shaw
+SHA
+Shaw
+Shenandoah
+SHE
+Shenandoah
+Shepherd
+SHE
+Shepherd
+Shepherd Tech
+STC
+Shepherd Tech
+Shippensburg
+SHI
+Shippensburg
+Siena Heights
+SH
+Siena Heights
+Simon Fraser
+SIM
+Simon Fraser
+Simpson College
+Simpson
+SIM
+Simpson 
+Slippery Rock
+SRU
+Slippery Rock
+SMU
+Southern Methodist
+SMU
+SMU
+South Alabama
+USA
+South Alabama
+South Carolina
+SC
+South Carolina
+South Carolina State
+SCST
+S Carolina St
+South Dakota
+SDAK
+South Dakota
+South Dakota Mines
+SDA
+SD Mines
+South Dakota State
+SDSU
+South Dakota St
+Southeastern Louisiana
+Southeast Louisiana
+SELA
+SE Louisiana
+Southeastern Oklahoma
+SEOS
+SEOkla St
+Southeastern University
+SEFL
+Southeastern
+Southeast Missouri State
+Southeast Missouri
+SEMO
+SE Missouri St
+Southern
+SOU
+Southern
+Southern Arkansas
+SOU
+S Arkansas
+Southern Connecticut State
+SOU
+S Conn St
+Southern Illinois
+SIU
+S Illinois
+Southern Mississippi
+USM
+Southern Miss
+Southern Nazarene
+STN
+S Nazarene
+Southern Oregon
+SOU
+So Oregon
+Southern Utah
+SUU
+Southern Utah
+Southern Virginia
+SVA
+S Virginia
+South Florida
+USF
+USF
+Southwest Baptist
+SWB
+SW Baptist
+Southwestern Assemblies of God
+SWA
+SW Assemblies of God
+Southwestern College
+SWC
+SW 
+Southwestern Oklahoma
+SWO
+SW Oklahoma
+Southwest Minnesota State
+SWM
+SW Minnesota St
+Springfield
+SPR
+Springfield
+St. Ambrose
+STA
+St. Ambrose
+Stanford
+STAN
+Stanford
+St. Anselm
+STA
+St. Anselm
+St. Augustine's
+STA
+St. Augustine's
+St. Cloud State
+STC
+St. Cloud St
+Stephen F. Austin
+Stephen F Austin
+SFA
+SF Austin
+Sterling College
+STC
+Sterling 
+Stetson
+STET
+Stetson
+Stevenson
+STU
+Stevenson
+St. Francis (IL)
+SFIL
+St Francis (IL)
+St. Francis (IN)
+SBP
+St. Francis (IN)
+St Francis (PA)
+Saint Francis (PA)
+SFU
+St Francis (PA)
+St. John Fisher
+STJ
+St. John Fisher
+St. Johns (MN)
+STJ
+St. Johns (MN)
+St Lawrence
+STL
+St Lawrence
+St. Norbert
+STN
+St. Norbert
+St. Olaf College
+STO
+St. Olaf 
+Stonehill
+SBI
+Stonehill
+Stony Brook
+STON
+Stony Brook
+St. Paul's College
+STP
+St. Paul's 
+St. Peter's
+SPU
+St. Peter's
+St. Scholastica
+SS
+St. Scholastica
+St. Thomas (MN)
+STMN
+St. Thomas (MN)
+St. Vincent
+STV
+St. Vincent
+St. Xavier (IL)
+STX
+St. Xavier (IL)
+Sul Ross State
+SUL
+Sul Ross St
+SUNY Cortland
+COR
+SUNY Cortland
+SUNY Maritime
+MAR
+SUNY Maritime
+Susquehanna
+SUS
+Susquehanna
+Syracuse
+SYR
+Syracuse
+Tarleton State
+TAR
+Tarleton St
+TCU
+Texas Christian
+TCU
+TCU
+Temple
+TEM
+Temple
+Tennessee
+TENN
+Tennessee
+Tennessee State
+TNST
+Tennessee St
+Tennessee Tech
+TNTC
+Tenn Tech
+Texas
+TEX
+Texas
+Texas A&M
+TA&M
+Texas A&M
+Texas A&M-Commerce
+TXA
+TX A&M-Commerce
+Texas A&M-Kingsville
+TXA
+Texas A&M-Kingsville
+Texas College
+TXCL
+Texas College
+Texas Lutheran
+TEX
+Texas Lutheran
+Texas Southern
+TXSO
+Texas Southern
+Texas State
+TXST
+Texas State
+Texas Tech
+TTU
+Texas Tech
+The Citadel
+CIT
+The Citadel
+Thomas More
+THO
+Thomas More
+Tiffin
+TIF
+Tiffin
+Toledo
+TOL
+Toledo
+Towson
+TOWS
+Towson
+Trine
+TRI
+Trine
+Trinity Bible
+TRI
+Trinity Bible
+Trinity (CT)
+TRI
+Trinity (CT)
+Trinity (IL)
+TRI
+Trinity (IL)
+Trinity (TX)
+TRI
+Trinity (TX)
+Troy
+TROY
+Troy
+Truman State
+TRU
+Truman St
+Tufts
+TUF
+Tufts
+Tulane
+TULN
+Tulane
+Tulsa
+TLSA
+Tulsa
+Tusculum
+TUS
+Tusculum
+Tuskegee
+TUS
+Tuskegee
+UAB
+Alabama-Birmingham
+UAB
+UAB
+UC Davis
+California-Davis
+UCD
+UC Davis
+UCF
+Central Florida
+UCF
+UCF
+UCLA
+UCLA
+UCLA
+UMass
+UMASS
+UMass
+UMass Dartmouth
+MAS
+UMass Dartmouth
+UMass Lowell
+UML
+UMass Lowell
+UNC Pembroke
+NCP
+UNC Pembroke
+Union
+UNI
+Union
+University of Faith
+UFFL
+Faith-Florida
+UNLV
+Nevada-Las Vegas
+UNLV
+UNLV
+Upper Iowa
+UI
+Upper Iowa
+Urbana
+URB
+Urbana
+Ursinus
+URS
+Ursinus
+USC
+USC
+USC
+Utah
+UTAH
+Utah
+Utah State
+USU
+Utah State
+UTEP
+Texas-El Paso
+UTEP
+UTEP
+Utica
+UTICA
+Utica College
+UT Martin
+UTM
+UT Martin
+UT San Antonio
+Texas-San Antonio
+UTSA
+UTSA
+UVA-Wise
+VAW
+UVA-Wise
+UW-Oshkosh
+WIS
+UW-Oshkosh
+UW-River Falls
+WIS
+UW-River Falls
+UW-Stout
+WIS
+UW-Stout
+UW-Whitewater
+WISW
+UW-Whitewater
+Valdosta State
+VAL
+Valdosta St
+Valley City State
+VAL
+Valley City St
+Valparaiso
+VALP
+Valparaiso
+Vanderbilt
+VAN
+Vanderbilt
+Villanova
+NOVA
+Villanova
+Virginia
+UVA
+UVA
+Virginia State
+VIR
+Virginia St
+Virginia Tech
+VT
+VT
+VMI
+Virginia Military Institute
+VMI
+VMI
+Wabash College
+Wabash
+WAB
+Wabash College
+Wagner
+WAG
+Wagner
+Wake Forest
+WAKE
+Wake Forest
+Waldorf
+WAL
+Waldorf
+Walsh
+WALSH
+Walsh
+Warner
+UWS
+Warner
+Wartburg
+WAR
+Wartburg
+Washburn
+WAS
+Washburn
+Washington
+WASH
+Washington
+Washington & Jefferson
+WAS
+W&J
+Washington & Lee
+UWL
+Wash. & Lee
+Washington (MO)
+WAS
+Washington (MO)
+Washington State
+WSU
+Washington St
+Wayland Baptist
+WAY
+Wayland
+Waynesburg
+WAY
+Waynesburg
+Wayne State (MI)
+WAY
+Wayne St (MI)
+Wayne State (NE)
+WAY
+Wayne St (NE)
+Webber International
+WEBB
+Webber College
+Weber State
+WEB
+Weber State
+Wesleyan
+Wesleyan
+WES
+Wesleyan
+Wesley College
+WES
+Wesley College
+West Alabama
+WES
+West Alabama
+West Chester
+WES
+West Chester
+Western Carolina
+WCU
+W Carolina
+Western Connecticut State
+WES
+W Conn St
+Western Illinois
+WIU
+W Illinois
+Western Kentucky
+WKU
+W Kentucky
+Western Michigan
+WMU
+W Michigan
+Western New England
+WES
+W New England
+Western New Mexico
+WES
+W New Mexico
+Western Oregon
+WES
+Western Oregon
+Western State
+WES
+Western St.
+Western Washington
+WES
+W Washington
+Westfield State
+WES
+Westfield St
+West Florida
+Argonauts
+West Georgia
+WES
+West Georgia
+West Liberty
+WES
+West Liberty
+Westminster
+WMN
+Westminster
+Westminster PA
+WMN
+Westminster PA
+West Texas A&M
+WES
+West Texas A&M
+West Virginia
+WVU
+West Virginia
+West Virginia Tech
+WVT
+W Virginia Tech
+Wheaton College (Ill)
+WHE
+Wheaton  (Ill)
+Whittier
+WHI
+Whittier
+Whitworth
+WHI
+Whitworth
+Widener
+WID
+Widener
+Wilkes
+WIL
+Wilkes
+Willamette
+WIL
+Willamette
+William Jewell College
+WJC
+William Jewell 
+William & Mary
+W&M
+William & Mary
+William Paterson
+WMP
+William Paterson
+William Penn
+WIL
+William Penn
+Williams
+WIL
+Williams
+Williamson Trade
+WIL
+Williamson Trade
+Wilmington (OH)
+WIL
+Wilmington (OH)
+Wingate
+WIN
+Wingate
+Winona State
+WIN
+Winona St
+Winston-Salem
+WSSU
+Winston-Salem
+Wisconsin
+WIS
+Wisconsin
+Wisconsin-Eau Claire
+WIS
+UW-Eau Claire
+Wisconsin-La Crosse
+WIS
+UW-La Crosse
+Wisconsin Lutheran
+WIS
+Wisconsin Lutheran
+Wisconsin-Platteville
+WIS
+UW-Platteville
+Wisconsin-Stevens Point
+WIS
+UW-Stevens Point
+Wittenberg
+WIT
+Wittenberg
+Wofford
+WOF
+Wofford
+Wooster
+WOO
+Wooster
+Worcester Polytechnic
+WPI
+WPI
+Worcester State College
+WOR
+Worcester St 
+Wright State University
+WRST
+Wright State
+WV State
+WES
+WV St
+WV Wesleyan
+West Virginia Wesleyan
+WVW
+WV Wesleyan
+Wyoming
+WYO
+Wyoming
+Yale
+YALE
+Yale
+Youngstown State
+YSU
+Youngstown St
+10th District A.C.
+111th Ambulance
+11th Cavalry
+1st Infantry
+1st Texas Artillery
+20th Infantry
+260th Coast Artillery
+26th Infantry
+2nd Developmemt Regiment
+2nd Texas 132nd Infantry
+362nd Infantry
+3rd Army Corps
+47th Infantry
+48th Infantry
+7th Infantry
+9th Amry Corps
+Abilene Field
+Active Football Club
+Actual Business College
+Adelbert
+Adelphi
+Alabama Medical
+Alabama Presbyterian
+Alabama Southern
+Alameda Coast Guard
+Alameda Coast Guard
+Alameda NAS
+Albertson
+Albuquerque Field
+Alliance
+Alma
+Altoona A.C.
+Amarillo Field
+Amarillo Field
+American
+American Legion
+American Medical
+American Osteopath
+Amherst YMCA
+Anaconda Anodes
+Anderson
+Andover
+Arizona All-Stars
+Armour
+Army Ambulance Corps
+Athens
+Athens A.C.
+Atlantic Christian
+Atlantic City NAS
+Augusta Military Academy
+Augustana (South Dakota)
+Austin
+Austin High
+Bailey Military
+Bainbridge NTS
+Baker
+Balboa NTS
+Ballard Meteors
+Baltimore
+Baltimore A.C.
+Bankers A.C.
+Barksdale Field
+Barnes Medical
+Barron Field
+Beaumont Hospital
+Belhaven College
+BEL
+Belhaven 
+Bellefonte Academy
+Bellevue
+Belmont A.C.
+Beloit High
+Benedict
+BEN
+Benedict
+Bennett Medical
+Berg Field
+Bergstrom Field
+Berkeley A.C.
+Bethany (Kansas)
+Bethany (West Virginia)
+Bethel
+Bingham
+Birmingham
+Birmingham High
+Bishop
+Blackland Field
+Blountsville Agricultural
+Bogue Field
+Bolling Field
+Boston A.C.
+Boston English High
+Boston Latin High
+Boston University
+Boston University
+Boulder High
+Bowie State
+BOW
+Bowie St
+Bradford National Guard
+Bradley
+Bradley
+Brandeis
+Brayton
+Bremerton Navy
+Bridgewater
+Britannia
+British Club of New York
+Brooklyn
+Brooklyn Polytechnic Institute
+Brooklyn Tigers (NFL)
+Bryan Field
+Bryson
+Buckner Business College
+Bunker Hill Navy
+Burleson
+Burlingame A.C.
+Butler YMCA
+Butte A.C.
+California Alumni
+California (Pennsylvania)
+California-Riverside
+California-Santa Barbara
+UCSB
+California-Santa Barbara
+California Tech
+Cal Poly-Pomona
+Cal State Fullerton
+Cal State Fullerton
+Cal State Los Angeles
+Cal State Los Angeles
+Cal State Northridge
+Camp Adams
+Camp Baker
+Camp Beale
+Camp Blanding
+Camp Davis
+Camp Devens
+Camp Dodge
+Camp Doniphan
+Campello
+Camp Funston
+Camp Gordon
+Camp Grant
+Camp Grant
+Camp Greene
+Camp Greenleaf
+Camp Griffin
+Camp Haan
+Camp Hancock
+Camp Harrison
+Camp Hood
+Camp Humphreys
+Camp Kilmer
+Camp Lee
+Camp Lejeune
+Camp Logan
+Camp Lyons
+Camp Mabry
+Camp MacAurthur
+Camp MacDowell
+Camp Mackall
+Camp McClelland
+Camp McKinley
+Camp McPherson
+Camp Meyer
+Camp Peary
+Camp Pendleton
+Camp Perry
+Camp Pickett
+Camp Pike
+Camp Polk
+Camp Preble
+Camp Russell
+Camp Sevier
+Camp Shelby
+Camp Sherman
+Camp Taylor
+Camp Travis
+Camp Wadsworth
+Canada All-Stars
+Canisius
+Canton A.C.
+Carleton-St. Olaf
+Carlisle
+Carlisle
+Carlstrom Field
+Carroll (Montana)
+Carroll (Wisconsin)
+Carruthers Field
+Carswell AFB
+Casa Blanca Indians
+Case
+Castle Heights
+Catawba College
+Catholic
+Centenary (LA)
+Centenary (LA)
+Centerville (Butte)
+Central Academy
+Central (Iowa)
+Central (Kentucky)
+Chamberlain Hunt
+Chanute Field
+Charles City
+Charleston
+Charleston Coast Guard
+Charleston Navy
+Chatham Field
+Chemawa
+Cherry Point Marines
+Cheyenne High
+Chicago A.C.
+Chicago Alumni
+Chicago College
+Chicago Dental
+Chicago Dining Club
+Chicago Medical
+Chicago Naval Reserve
+Chicago YMCA
+Chick Springs Military
+Chilocco
+Chowan
+CHO
+Chowan
+Christian Brothers
+City College of New York
+Clarke Memorial
+Clarkson
+Clemson Freshmen
+Cleveland Naval Reserves
+C.M.T.S.
+College All-Stars
+Colorado Alumni
+Colorado College Alumni
+Colorado Springs Field
+Colorado Springs High
+Colorado State Freshmen
+Columbia A.C.
+Columbia Alumni
+Columbia College
+Columbia Law
+Columbia (Oregon)
+Columbia YMCA
+Company I
+Connecticut Literary
+Connecticut-Waterbury
+Conway Hall
+Corpus Christi NAS
+Cortland State
+Cotton City A.C.
+Crane J.C.
+Creighton
+Creighton
+Crescent A.C.
+Culver
+Curtis Bay Coast Guard
+Dalhart Field
+Dallas
+Daniel Baker
+Daniel Field
+Davis & Elkins
+Dean Academy
+Decatur Baptist
+Del Monte Pre-Flight
+Del Monte Pre-Flight
+Denver
+DU
+Denver
+Denver A.C.
+Denver Alumni
+Denver Freshmen
+Denver Manual High
+DePaul
+Des Moines
+Des Moines Baptist
+Detroit A.C.
+Detroit Mercy
+Detroit Mercy
+Dickinson Seminary
+Dixie
+Dixie State
+DIX
+Dixie St
+Dixon
+Doane
+Drake Alumni
+Drexel
+Drury
+Drury
+Duquesne A.C.
+East Central Oklahoma
+East Denver High
+East Des Moines High
+Eastern Arizona J.C.
+Eastern (Virginia)
+Edmond Tech
+Edmonton Field
+Edward Waters
+Elgin Academy
+Elizabeth A.C.
+Ellensburg
+Ellington Field
+Ellsworth
+El Paso National Guard
+El Toro Marines
+Emporia College
+Englewood
+Englewood High
+Englewood YMCA
+Erskine
+Erskine
+Eton
+Eureka
+Evanston High
+Evansville
+Exeter
+F.A.A.
+Fall River
+Falls of Schuylkill
+Farragut Navy
+Finlandia University
+FINL
+Finlandia
+Fishburne M.A.
+Fitchburg YMCA
+Fleet City
+Florence YMCA
+Florida Southern
+Fort Benning
+Fort Benning
+Fort Bliss
+Fort Bragg
+Fort Des Moines
+Fort Douglas
+Fort Ethan Allen
+Fort Jackson
+Fort Knox
+Fort Leavenworth
+Fort Lewis College
+Fort Monmouth
+Fort Monroe
+Fort Oglethorpe
+Fort Ord
+Fort Pierce
+Fort Riley
+Fort Riley
+Fort Sheridan
+Fort Totten
+Fort Warren
+Fort Warren
+Fort Worth
+Foundation
+Frederick
+Freeport High
+Fremont Ammuntion
+Fresno State JV
+Friends
+Galveston Field
+Garden City
+Geneva
+Georgetown (Kentucky)
+George Washington
+George Washington
+Georgia B
+Georgia Medical
+Georgia Pre-Flight
+Georgia Pre-Flight
+Georgia Tech B
+Goat Island Navy
+Golden High
+Gonzaga
+Gonzaga
+Gonzaga Alumni
+Gordon
+Goshen
+Grand Island
+Grand Rapids High
+Granite High
+Great Lakes Navy
+Great Lakes Navy
+Greenfield
+Greensboro Field
+Greenville Field
+Greer
+Grinnell Alumni
+Grinnell High
+Grove City
+Hahnemann Medical
+Hamilton A.C.
+Hampton A.C.
+Hampton Road
+Harrisburg A.C.
+Harry Hillman Academy
+Hartford
+Harvard Alumni
+Harvard B
+Harvard Freshmen
+Harvard Law
+Haskell
+Haskell
+Hastings
+Hastings State
+Havana A.C.
+Havana University
+Haverford
+Haverford
+Hawaii All-Stars
+Hayward State
+Hebron Academy
+Hedding
+Herington Field
+Highland Park
+High Point
+Hiwassee
+Hoboken Navy
+Hofstra
+HOF
+Hofstra
+Homestead A.C.
+Hondo Field
+Hopkinson
+Horner
+Houston YMCA
+Hyde Park
+Hyde Park High
+Idaho Marines
+Illinois Alumni
+Illinois Cycling Club
+Illinois Medical
+Independence A.C.
+Indiana Alumni
+Indiana Medical
+Indiana (Pennsylvania)
+Indianapolis Artillery
+Intermountain
+Iowa Pre-Flight
+IPF
+Iowa Pre-Flight
+Jackson Br.-New Orleans
+Jackson Field
+Jacksonville Naval Air Station
+Jacksonville Naval Air Station
+James Millikin
+Jefferson
+Jefferson Medical
+Jersey Shore
+Kamehameha Alumni
+Kansas City A.C.
+Kansas City Medical
+Kansas City Veterinary
+Kansas Wesleyan
+Kean
+KEA
+Kean
+Kearney
+Kearney Field
+Keesler Field
+Kelly Field
+Kents Hill
+Kentucky Christian
+KCU
+Kentucky Christian
+King
+Kingfisher
+King George
+Kirtland Field
+Kiski Preparatory
+Knox College
+Knox
+KNO
+Knox College
+Lackland Field
+Lake Forest Academy
+Lake Forest Alumni
+Lakehurst NAS
+Lakeland University
+LAKE
+Lakeland
+Lake View High
+Lancaster Crescents
+Lane
+LAN
+Lane
+Lanier
+Laramie High
+La Salle
+Latrobe A.C.
+Laureate Boat Club
+Lawrenceville
+Lawton
+League Island Navy
+Leander Clarke
+Lehigh A.C.
+Leilahau
+Lewisburg A.C.
+Lieutenants
+Lincoln
+Lincoln Field
+Lincoln High
+Lincoln Medical
+Locust Grove
+Logan All-Stars
+Lombard
+Lombard
+Long Beach State
+LBS
+Long Beach State
+Longmont High
+Loras
+Loras College
+LOR
+Loras College
+Los Angeles A.C.
+Los Angeles Junior College
+Louisiana Army STU
+Louisiana State Freshmen
+Louisville Field
+Love Field
+Lowry Field
+Loyola Academy
+Loyola (Baltimore)
+Loyola (Chicago)
+Loyola (LA)
+Loyola (LA)
+Loyola Marymount
+Loyola Marymount
+Lubbock Field
+Lubbock Field
+Lynchburg
+MacAurthur Field
+Machinists Mates
+Madison High
+Manhattan
+Manhattan
+Manhattan A.C.
+Manhattan Beach Coast Guard
+Mankato State
+Manual Training High
+March Field
+March Field
+Mare Island Marines
+Mare Island Marines
+Mare Island Navy
+Marine Officers
+Marion
+Marion County High
+Marion Sims
+Marquette
+Marquette
+Marshall School
+Marshalltown
+Maryland A.C.
+Maryland-Baltimore
+Massilon A.C.
+Mather Field
+Maxwell Field
+Mayport NAS
+McClellan Field
+McDaniel
+McGill
+McKendree
+MAN
+McKendree
+Medford A.C.
+Medico-Chirurgical
+Melville PT Boats
+Memphis High
+Memphis Navy
+Mercersburg Academy
+Meridian
+Meteor A.C.
+Michigan A.C.
+Michigan Military Academy
+Midwestern Texas State
+Milligan
+Milwaukee Medical
+Minneapolis Boat Club
+Minneapolis Central High
+Minneapolis Eastern High
+Minneapolis South High
+Minnesota Alumni
+Missouri-Kansas City
+Missouri-Rolla
+Missouri Southern
+Missouri Valley
+Missouri Wesleyan
+MIT
+MIT
+MIT
+Moffett Field
+Mohawk
+Moline A.C.
+Monroe A.C.
+Montana Tech
+Montana Wesleyan
+Montclair A.C.
+Montezuma
+Montgomery A.C.
+Monticello Navy
+Montreal
+Mooney
+Moorhead State
+Morgan
+Morganton Mutes
+Morris Field
+Morris Harvey
+Mount Airy Deaf School
+Mount Carmel All-Stars
+Mount Hermon
+Mount Pleasant
+Mount St. Mary's
+Multnomah A.C.
+Nashville
+Nashville
+Navy Hospital Corps
+Navy Reserves
+Navy Transport
+Nebraska Alumni
+Nebraska Wesleyan
+Nebraska Wesleyan University
+NWU
+Neb. Wesleyan
+Needham
+Newark A.C.
+Newberry A.C.
+Newburyport A.C.
+New England All-Stars
+New Jersey A.C.
+New London Submarine Base
+New Mexico Military
+New Mexico Tech
+New Orleans Gym Club
+Newport Navy
+Newport News
+Newport NTS
+Newton A.C.
+Newton High
+Newtowne A.C.
+New York A.C.
+New York Law
+New York Naval Militia
+New York State
+New York University
+New York University
+Niagara
+Norfolk A.C.
+Norfolk Blues
+Norfolk Fire Department
+Norfolk Marines
+Norfolk Navy
+Norfolk Navy Base
+Norfolk Navy Yard
+Norman Naval Air Station
+Norman Naval Air Station
+Norman Park
+North Alabama A.C.
+North Carolina Medical
+North Carolina Pre-Flight
+NCPF
+North Carolina Pre-Flight
+North Dakota Teachers
+North Denver High
+North Division High
+Northeastern
+NE
+Northeastern
+Northeastern Oklahoma State
+North Georgia
+Northwest Division High
+Northwestern Academy
+Northwestern Alumni
+Northwestern Dental
+Northwestern (Wisconsin)
+Notre Dame B
+Oak Ridge
+Oceana NAS
+Ogden A.C.
+Ogden High
+Oglethorpe
+Oglethorpe
+Ohio Am. Corp.
+Ohio Medical
+Oklahoma City
+Oklahoma Mines
+Oklahoma Teachers
+Olathe Navy
+Olivet
+Olympic A.C.
+Olympic Club
+Omaha Balloon
+Omaha Light Guards
+Onondaga
+Orange A.C.
+Oregon College
+Oregon State Alumni
+Originals A.C.
+Ottawa
+Ottumwa Pre-Flight
+Ouachita
+Overland Station
+Ozarks
+Pacific
+Pacific
+Pacific All-Stars
+Pacific Fleet
+Pacific (Oregon)
+Pacific Submarines
+Palmyra
+Panhandle State
+Panora
+Park Field
+Parris Island Marines
+Parsons
+Parsons (Iowa)
+Pastime A.C.
+Payne Field
+Pearl Harbor
+Pelham Bay Navy
+Penn Radio School
+Pennsylvania Alumni
+Pennsylvania College
+Pennsylvania Military
+Pennsylvania Railroad YMCA
+Pennsylvania Reserves
+Pensacola A.C.
+Pensacola NAS
+Peoria Socials A.C.
+Pepperdine
+Peru State
+Phialdelphia YMCA
+Philadelphia A.C.
+Philadelphia All-Stars
+Philadelphia Naval Yard
+Phillips
+Phillips
+Phoenix A.C.
+Phoenix All-Stars
+Phoenix Indians
+Physicians & Surgeons
+Piedmont
+Pittsburgh A.C.
+Pittsburgh Lyceum
+Pittsfield A.C.
+Pleasanton Navy
+Pomona Ordinance Base
+Pontiac A.C.
+Porter Military
+Portland
+Portland
+Portland A.C.
+Port Royal
+Portsmouth Fleet
+Post Field
+Prairie A.C.
+Presidio of San Francisco
+Princeton A.C.
+Princeton Alumni
+Princeton Seminary
+Providence
+Pueblo High
+Pueblo YMCA
+Purdue Alumni
+Quantico Marines
+Quantico Marines
+Quincy A.C.
+Randolph Field
+Randolph Field
+Ream Field
+Regis (CO)
+Regis (CO)
+Reina Mercedes
+Reliance A.C.
+Richmond Blues
+Richmond Field
+Ridgefield A.C.
+Riverside
+Roanoke
+Rockford High
+Rockford YMCA
+Rockhurst
+Rock Island A.C.
+Rollins
+Rooks
+Rush Medical
+Rusk
+Sacaton Indians
+Sacred Heart (Wisconsin)
+Saint Louis
+Saint Louis
+Saint Mary's (CA)
+Saint Mary's (CA)
+Saint Mary's (CA) Pre-Flight
+Saint Mary's (CA) Pre-Flight
+Salt Lake Field
+Salt Lake High
+Salt Lake YMCA
+Sampson NTS
+San Diego Bombers (PCFL)
+San Diego Marines
+San Diego Navy
+San Francisco
+SF
+San Francisco
+San Francisco Clippers (AFL)
+San Francisco State
+San Pedro A.C.
+San Pedro Navy
+Santa Ana Field
+Santa Clara
+SC
+Santa Clara
+Savannah A.C.
+S.B. Howard Park
+Schuylkill
+Schuylkill Navy
+Scott Field
+Scout Fleet
+Scranton
+Seamen Gunners
+Second Air Force
+Second Air Force
+Second Air Force (Colorado)
+Second Air Force (Washington)
+Seton Hall
+Sewanee Club (Virginia)
+Sewanee Medical
+Shamokin
+Shattuck
+Sherman
+Shorter
+SHO
+Shorter
+Shreveport A.C.
+Shurtleff
+Sioux City A.C.
+Sioux Falls
+SIO
+Sioux Falls
+SMTS
+Sonoma State
+South Bend A.C.
+South Berwick
+South Denver High
+Southeastern Oklahoma State
+Southern California Alumni
+Southern College
+Southern Methodist Freshmen
+Southern Military Academy
+South Plains Field
+South Side Academy
+Southwestern (Kansas)
+Southwestern Oklahoma State
+Southwestern University
+Southwestern (TX)
+SW
+Southwestern U
+Spence Field
+Spring Hill
+Spring Hill
+Squantum NAS
+Staats A.C.
+St. Albans
+Standifer Shipbuilders
+St. Benedict
+St. Bonaventure
+St. Edward's
+Steelton YMCA
+Sterling A.C.
+Stevens
+Stevens
+Stevens Alumni
+St. Francis (Pennsylvania)
+St. Helena NTS
+Still
+St. John's M.A.
+St. John's (Maryland)
+St. Joseph's (Indiana)
+St. Joseph's (Pennsylvania)
+St. Lawrence
+St. Louis Alumni-Hawaii
+St. Mary's (Kansas)
+St. Mary's (Minnesota)
+St. Mary's (Texas)
+St. Olaf
+St. Paul
+St. Paul Central High
+St. Paul's (New Hampshire)
+Stroudsburg
+St. Steven's
+St. Thomas
+St. Viator
+St. Vincent's (California)
+St. Vincent's (Pennsylvania)
+Superba A.C.
+Swarthmore
+SWAR
+Swarthmore
+Swarthmore Alumni
+Syracuse A.C.
+Syracuse Alumni
+Talladega
+Tampa
+Tampa
+Tampa A.C.
+Tarkio
+Taylor
+TAY
+Taylor
+Temperance A.C.
+Tennessee Deaf School
+Tennessee Medical College
+Tennessee Medical College
+Tennessee-Memphis
+Tennessee Military
+Tennessee Wesleyan
+Texas A&M-Corpus Christi
+Texas-Arlington
+Texas-Arlington
+Texas Deaf School
+Texas Military
+Texas Wesleyan
+Thiel
+Thiel College
+THI
+Thiel College
+Third Air Force
+Tioga
+Toledo A.C.
+Tonkawa Preparatory
+Toronto All-Stars
+Transylvania
+Trinity International (IL)
+TRN
+Trinity Intl
+Trinity (Texas)
+Troy Laureates
+Tulane Alumni
+Twin Cities Central High
+Twin Cities High
+UAY All-Stars
+Union College
+Union
+UNI
+Union Ky College
+Union (NY)
+Union (NY)
+Union (Tennessee)
+University Club of Chicago
+University of Mary
+MAR
+U of Mary
+University of Mexico
+Upsala
+U.S. Amphibians
+U.S. International
+U.S. Marines
+US Recup. Company
+USS Boston
+USS Franklin
+USS Idaho
+USS Maryland
+USS Mercy
+USS Minnesota
+USS Mississippi
+USS New Mexico
+USS New York
+USS Oklahoma
+USS Tennessee
+USS Utah
+USS Washington
+Utah Alumni
+Utah Field Artillery
+Utah State Alumni
+Vancouver Barracks
+Vanderbilt Alumni
+Vedado A.C.
+Vermont
+Vermont
+Vermont Methodist Seminary
+Vicksburg A.C.
+Vigilant A.C.
+Vincennes
+Vineland
+Virginia Boat Club
+Virginia Medical
+Virginia Tech Alumni
+Virginia Union
+VIR
+Virginia Union
+Volunteer A.C.
+Waco Field
+Wake Forest Freshmen
+Walton
+Warrenton Preparatory
+Washington Artillery
+Washington (Maryland)
+Washington Redskins (NFL)
+Washington YMCA
+Waterton
+Watertown
+Waukegan High
+Wayne State
+Welch Neck High
+Wendell Phillips High
+Wesley
+Wesleyan (CT)
+Wesleyan (CT)
+West Coast Army
+West Coast Navy
+West Denver High
+West Division High
+West End Amateurs
+Western (Iowa)
+Western Reserve
+West Logan High
+Westminster (Missouri)
+Westminster (Pennsylvania)
+West Seattle A.C.
+West Texas Military
+Wetumpka
+Wheaton High
+White Sands
+White Squadron
+Whitman
+Whitman
+Wichita State
+Wichita State
+William Jewell
+Williams Alumni
+Williams Field
+Williamsport
+Williston
+Wilmington
+Winchester
+Wisconsin Alumni
+Wisconsin Freshmen
+Wisconsin-Milwaukee
+Wisconsin-Oshkosh
+Wisconsin-Whitewater
+Wissahickon Barracks
+Worcester A.C.
+Worcester Academy
+Wyoming Alumni
+Wyoming Faculty
+Wyoming Seminary
+Xavier
+Xavier
+Yale Alumni
+Yale Consolidated
+Yale Freshmen
+Yale/Princeton/Harvard Grads
+YMI
+York YMCA
+Yuma Field
